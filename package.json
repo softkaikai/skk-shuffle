@@ -1,0 +1,23 @@
+{
+  "name": "skk-shuffle",
+  "version": "1.0.0",
+  "description": "shuffle a array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softkaikai/skk-shuffle.git"
+  },
+  "keywords": [
+    "shuffle",
+    "array"
+  ],
+  "author": "softkaikai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/softkaikai/skk-shuffle/issues"
+  },
+  "homepage": "https://github.com/softkaikai/skk-shuffle#readme"
+}
