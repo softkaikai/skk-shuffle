@@ -1,6 +1,6 @@
 # skk-shuffle
-[![Build Status](https://travis-ci.org/softkaikai/skk-binSearch.svg?branch=master)](https://travis-ci.org/softkaikai/skk-binSearch)
-[![npm version](https://badge.fury.io/js/skk-binsearch.svg)](https://badge.fury.io/js/skk-binsearch)<br />
+[![Build Status](https://www.travis-ci.org/softkaikai/skk-shuffle.svg?branch=master)](https://www.travis-ci.org/softkaikai/skk-shuffle)
+[![npm version](https://badge.fury.io/js/skk-shuffle.svg)](https://badge.fury.io/js/skk-shuffle)<br />
 A small module named skk-shuffle to shuffle a array. You can determine to change the source arr or return a new array by pass true as the second argument.
 ## Example
 install
